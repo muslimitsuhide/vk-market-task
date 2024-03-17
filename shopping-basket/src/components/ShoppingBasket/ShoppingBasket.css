@@ -1,0 +1,18 @@
+.shopping-cart {
+    display: flex;
+}
+  
+.left-column {
+    flex: 3;
+    background-color: #f0f0f0;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+ }
+  
+.right-column {
+    flex: 1;
+    background-color: #e0e0e0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+  
